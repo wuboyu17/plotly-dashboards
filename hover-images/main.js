@@ -96,5 +96,6 @@ Plot.onHover = function(message) {
 };
 
 Plot.init();
+alert('ha')
 
 })();
